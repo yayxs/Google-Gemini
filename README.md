@@ -197,3 +197,99 @@ PaLM-E (2023 年 3 月)
 ## 2023 年 4 月
 
 “Magi”项目浮出水面：有媒体报道称，谷歌内部正在全力推进一个代号为“Magi”的秘密项目。这并非仅仅是在现有搜索中加入一个聊天框，而是一个旨在从头开始、用生成式 AI 技术彻底改造搜索引擎的庞大计划。超过 160 名员工正在全职投入这个项目，其目标是提供一种远超传统链接列表的、更具个性化和交互性的搜索体验。
+
+最重大事件：Google DeepMind 的诞生
+
+4 月 20 日：史诗级合并宣布
+
+• Google Brain + DeepMind = Google DeepMind
+• 这被认为是 AI 界最重量级的"超级战队"组建
+• 直接回应 OpenAI 带来的竞争压力
+
+🎯 新的领导架构
+
+最高领导层调整：
+
+人物 新职位 职责范围
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Demis Hassabis Google DeepMind CEO 统管合并后的整个 AI 研究团队
+Jeff Dean Google 首席科学家 负责整体 AI 技术战略，向 Sundar Pichai 汇报
+
+## 2023 年 5 月
+
+取消候补：谷歌在大会上宣布，Bard 正式取消候补名单，向全球 180 多个国家和地区（使用英语）全面开放
+
+Bard 的底层模型从 LaMDA 升级为更强大、更高效的 PaLM 2
+
+搜索的未来：Search Generative Experience (SGE)
+
+Duet AI for Workspace：正式命名了其在 Gmail、Docs 等工具中的 AI 助手
+
+## 2023 年 6 月
+
+苹果 WWDC 大会（6 月 5 日）
+
+Bard 变得更聪明、更实用：
+
+在 5 月份注册了谷歌 Search Labs 的用户，在 6 月份有越来越多的人收到了邀请，得以亲身体验全新的 SGE 搜索
+
+形成了清晰的三条战线：消费者端（Bard 和 SGE），企业端（Workspace 和 Cloud AI），以及垂直领域（如医疗）。
+
+## 2023 年 7 月
+
+Bard 有史以来最大规模的升级 (2023 年 7 月 13 日)
+
+核心动态：Bard 正式整合了 Google Lens 的功能，首次支持图片输入。
+
+7 月 12 日，谷歌将在 I/O 大会上以“Project Tailwind”为代号预告的项目，正式命名为 NotebookLM，并率先在美国向部分用户开放。
+
+## 2023 年 8 月
+
+核心事件：Google Cloud Next '23 (8 月 29-31 日) —— AI 的全面商业化
+
+此前在 I/O 大会上展示的、嵌入在 Workspace 和 Google Cloud 中的 AI 助手 Duet AI，在本次大会上正式全面可用（Generally Available）。
+
+谷歌对其 Vertex AI 平台进行了重大升级，这是一个帮助企业构建、部署和管理自己 AI 模型的平台。
+
+除了自家的 PaLM 2 模型，谷歌还宣布引入 Meta 的 Llama 2、Anthropic 的 Claude 2 等第三方和开源模型
+
+## 2023 年 9 月
+
+核心事件：Bard Extensions (扩展程序) 正式上线 (9 月 19 日)
+
+Gemini 的“风声”越来越紧：虽然没有正式发布，但在 9 月份，关于下一代模型 Gemini 的各种“泄露”和报道开始甚嚣尘上
+
+## 2023 年 10 月
+
+正式宣布将 Google Assistant（谷歌助理）与 Bard 进行深度融合
+
+## 2023 年 11 月
+
+OpenAI 上演“宫斗”大戏，全世界目瞪口呆
+11 月 17 日：OpenAI 董事会突然宣布，解雇 CEO 萨姆·奥特曼（Sam Altman）。接下来的 5 天：剧情反转再反转，经历了微软宣布将聘用奥特曼、超过 95%的 OpenAI 员工联名签署信件要求董事会辞职并请回奥特曼等一系列混乱之后，奥特曼最终在 11 月 22 日戏剧性地回归，并重组了董事会。
+
+各大科技媒体，如 The Information 等，都发布了多篇深度报道，援引内部消息称，谷歌已经向一小部分核心客户和合作伙伴展示了 Gemini 的能力，其性能在多个基准测试中**“轻松超越”了 GPT-4**
+
+## 2023 年 12 月
+
+Gemini Ultra (双子座-超大杯)：
+定位：谷歌最顶级的模型，对标并旨在全面超越 OpenAI 的 GPT-4。
+性能：谷歌公布了 32 项学术基准测试结果，在其中 30 项上，Gemini Ultra 的表现都优于 GPT-4。尤其是在 MMLU（大规模多任务语言理解）测试中，Gemini Ultra 是第一个得分超过 90%的模型，超越了人类专家的平均水平。
+发布策略：12 月 6 日仅为“官宣”，并未立即对公众开放，计划在 2024 年初通过 Bard Advanced 提供给用户。
+Gemini Pro (双子座-大杯)：
+定位：性能与多功能性兼备的主力模型，对标 GPT-3.5，但在许多任务上表现更优。
+发布策略：立即应用！ 谷歌在发布当天就宣布，英语世界的 Bard 已经升级，其核心由 Gemini Pro 驱动。这是对用户的直接利好，也是谷歌执行力的体现。
+Gemini Nano (双子座-中杯)：
+定位：最高效的端侧模型，专为在智能手机等移动设备上离线运行而设计。
+发布策略：立即集成！ 谷歌宣布，Pixel 8 Pro 手机成为首个搭载 Gemini Nano 的设备，为录音机应用的“总结”功能和 Gboard 的“智能回复”功能提供 AI 能力。
+
+在发布初期，通过 Google AI Studio 调用 Gemini Pro 和 Gemini Pro Vision 是免费的（有相应的速率限制）。
+
+模型版本 具体 Model ID (截至 2023/12) 主要用途 如何接入 (截至 2023/12)
+Gemini Ultra (无，尚未开放) 最顶级的复杂推理任务 宣布将在 2024 年初通过 Bard Advanced 和 API 提供
+Gemini Pro gemini-pro 高性能文本生成、聊天、代码 已通过 Google AI Studio 和 Vertex AI 的 API 全面开放
+Gemini Pro Vision gemini-pro-vision 文本+图像/视频的多模态理解 已通过 Google AI Studio 和 Vertex AI 的 API 全面开放
+Gemini Nano (通过 Android AICore) 端侧设备上的 AI 任务 已集成在 Pixel 8 Pro 手机中，供安卓开发者使用
+
+当时大家访问的网址是：
+makersuite.google.com
