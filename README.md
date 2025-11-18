@@ -27,6 +27,19 @@
 
 ---
 
+## Pro 系列
+
+| 世代                      | 时间段（大致）           | 代表模型 ID                                                                                       | 状态 / 备注                                                                                |
+| ----------------------- | ----------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 1.0 Pro（早期叫 Gemini Pro） | 2023-12 ～ 2025-02 | `gemini-pro` / `gemini-pro-vision`，之后是 `gemini-1.0-pro-001/002`、`gemini-1.0-pro-vision-001`   | API 支持已在 2025-02 结束，Vertex 侧 2025-04-21 退休。([Google AI for Developers][1])             |
+| 1.5 Pro                 | 2024-02 ～ 2025-09 | `gemini-1.5-pro-latest`（preview）→ `gemini-1.5-pro-001` → `gemini-1.5-pro-002`                 | 长上下文（128K～2M）、多模态主力，现已全部退休。([blog.google][2])                                          |
+| 2.0 Pro（experimental）   | 2025-02 起         | `gemini-2.0-pro-exp-02-05`                                                                    | 始终是 experimental，主打复杂推理与 coding，稳定生产推荐仍是 2.0 Flash。([Google AI for Developers][1])     |
+| 2.5 Pro（thinking 主线）    | 2025-03 ～ 现在      | `gemini-2.5-pro-exp-03-25`（实验）→ `gemini-2.5-pro-preview-03-25/05-06/06-05` → `gemini-2.5-pro` | 现在的旗舰 Pro 模型，带 adaptive thinking / long context / 高级推理。([Google AI for Developers][1]) |
+
+[1]: https://ai.google.dev/gemini-api/docs/changelog "Release notes  |  Gemini API  |  Google AI for Developers"
+[2]: https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/?utm_source=chatgpt.com "Introducing Gemini 1.5, Google's next-generation AI model"
+
+
 ## Bard
 
 [⬆️ 回到目录](#目录)
